@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="coletarDados.cs" />
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
